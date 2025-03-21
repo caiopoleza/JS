@@ -45,9 +45,23 @@ function calcular(num1,num2){
 calcular(n1,n2);
 
 */
-
-calcular(n1,n2)
-
+/*
 let n = 11
-let x = 0
- while
+ let x = 0
+ 
+ while(n > 1 ){
+ n--;
+ x -= n; 
+ console.log(n);
+}
+*/
+
+let texto = prompt("digite a palavra");
+
+function imverter texto( texto){
+   return texto.split
+
+
+
+
+}
